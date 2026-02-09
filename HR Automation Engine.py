@@ -15,7 +15,7 @@ def export_hr_report(df, output_path):
     # --- PIXEL-PERFECT FORMATTING ---
     # Replicating Legacy Style: Colored Header, White Text, Bold, Double Borders
     header_format = workbook.add_format({
-        'bg_color': '#FF00FF',  # Corporate Color
+        'bg_color': '#FF00FF',
         'font_color': '#FFFFFF',
         'align': 'center',
         'valign': 'vcenter',
@@ -38,3 +38,4 @@ def export_hr_report(df, output_path):
     writer.close()
 
     print("Report generated with 100% formatting specification.")
+
