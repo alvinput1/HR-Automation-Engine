@@ -2,7 +2,7 @@ import pandas as pd
 import xlsxwriter
 
 # --- AUTOMATED REPORTING ENGINE (GENERAL VERSION) ---
-# Aim: Replicating corporate existing report record and styles into automated outputs.
+# Aim: Replicating existing corporate report record and styles into automated outputs.
 
 def export_hr_report(df, output_path):
     # Create an ExcelWriter object using xlsxwriter engine
@@ -38,4 +38,5 @@ def export_hr_report(df, output_path):
     writer.close()
 
     print("Report generated with 100% formatting specification.")
+
 
