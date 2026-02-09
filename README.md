@@ -23,7 +23,7 @@ A Python-based automation tool designed to transform manual HR data processing i
 ```python
 # The engine ensures the output is always "Ready-to-Present"
 header_format = workbook.add_format({
-    'bg_color': '#FF00FF', # Corporate Color
+    'bg_color': '#FF00FF',
     'font_color': '#FFFFFF',
     'bold': True,
     'border': 1
