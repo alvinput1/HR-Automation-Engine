@@ -6,7 +6,7 @@ A Python-based automation tool designed to transform manual HR data processing i
 Open for opportunities. Contact me at alvinput.perdana@gmail.com or https://www.linkedin.com/in/alvinputrap/
 
 ### Key Problems Solved:
-* **Time Inefficiency:** Reduced report generation time from **20 minutes to near-instantaneous** execution.
+* **Time Inefficiency:** Reduced report generation time from **hours to near-instantaneous** execution.
 * **Manual Errors:** Eliminated human risks in data filtering, cleaning, and formatting for thousand records.
 * **Inconsistent Formatting:** Achieved 100% fidelity in replicating legacy corporate styles (Colored themes, specific borders, and layouts) to ensure high user adoption.
 
