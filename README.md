@@ -1,14 +1,18 @@
 # HR Reporting Automation Engine 🚀
 
 ### Overview
-A Python-based automation tool designed to transform manual HR data processing into efficient, professional, and audit-ready Excel reports. This project was developed to bridge the gap between technical data engineering and the specific aesthetic standards of corporate HR reporting.
+A Python-based HR data automation system designed to transform manual reporting workflows into scalable, accurate, and audit-ready outputs.
+
+This project bridges the gap between data engineering practices and real-world HR reporting needs, ensuring both technical efficiency and business usability..
 
 Open for opportunities. Contact me at alvinput.perdana@gmail.com or https://www.linkedin.com/in/alvinputrap/
 
-### Key Problems Solved:
-* **Time Inefficiency:** Reduced report generation time from **hours to near-instantaneous** execution.
-* **Manual Errors:** Eliminated human risks in data filtering, cleaning, and formatting for thousand records.
-* **Inconsistent Formatting:** Achieved 100% fidelity in replicating legacy corporate styles (Colored themes, specific borders, and layouts) to ensure high user adoption.
+### Key Capabilities:
+* **Data Pipeline Automation:** Modular processing for filtering, cleaning, and structuring HR datasets
+* **Data Cleaning Engine:** Handles inconsistent and historical HR data
+* **Excel Report Generator:** Automated professional formatting using XlsxWriter
+* **Dynamic Formatting Logic:** Auto-adjust column widths based on content
+* **Corporate Style Replication:** Maintains strict formatting consistency for stakeholder adoption
 
 ### Features
 - **Modular Data Pipeline:** Handles complex filtering for multiple variables.
